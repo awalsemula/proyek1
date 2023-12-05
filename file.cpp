@@ -6,6 +6,7 @@ struct Karyawan {
     string nama;
     string nik;
     string tanggalLahir;
+    string alamat;
 };
 
 const int max_karyawan = 2;
